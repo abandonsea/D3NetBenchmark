@@ -20,7 +20,10 @@ https://drive.google.com/open?id=1osdm_PRnupIkM82hFbz9u0EKJC_arlQI
 Our testing dataset is:
 
 https://drive.google.com/open?id=1ABYxq0mL4lPq2F0paNJ7-5T9ST6XVHl1
-https://drive.google.com/open?id=1osdm_PRnupIkM82hFbz9u0EKJC_arlQI
+
+链接：https://pan.baidu.com/s/1z0MtSq9QA9B-VvFJ3tL9JA 
+提取码：zust 
+
 ## Requirement
 - PyTorch>=0.4.1  
 - Opencv   
