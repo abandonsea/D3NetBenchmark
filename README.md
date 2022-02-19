@@ -61,6 +61,10 @@ python eval.py
 ## Pretrained models
 -RgbdNet,RgbNet,DepthNet pretrained models can be downloaded from ( [GoogleDrive](https://drive.google.com/drive/folders/1jbZzUbgOC0XzbBEsy-Bgf3b-pvr62aWK?usp=sharing) | [BaiduYun](https://pan.baidu.com/s/1sgi0KExOv5KOfGQgXpDdqw) code: xf1h )  
 
+链接：https://pan.baidu.com/s/1z3BQq0Mi3cT55i2-qa36UQ 
+提取码：zust 
+--来自百度网盘超级会员V1的分享
+
 ## Results
 <p align="center">
     <img src="D3Net-Result.jpg"/> <br/>
