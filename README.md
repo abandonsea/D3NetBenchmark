@@ -16,10 +16,16 @@ Figure 1: Illustration of the proposed D3Net. In the training stage (Left), the 
 Our training dataset is:
 
 https://drive.google.com/open?id=1osdm_PRnupIkM82hFbz9u0EKJC_arlQI
+链接：https://pan.baidu.com/s/1nFpavHNrQeJD2Vyxvl7WTA 
+提取码：zust 
+--来自百度网盘超级会员V1的分享
 
 Our testing dataset is:
 
 https://drive.google.com/open?id=1ABYxq0mL4lPq2F0paNJ7-5T9ST6XVHl1
+链接：https://pan.baidu.com/s/1tuASyh8cgUQiYywXM2JpKA 
+提取码：zust 
+--来自百度网盘超级会员V1的分享
 
 链接：https://pan.baidu.com/s/1z0MtSq9QA9B-VvFJ3tL9JA 
 提取码：zust 
